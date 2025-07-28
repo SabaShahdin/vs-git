@@ -1,1 +1,1 @@
-Hello Text New feature
+Hello New feature
